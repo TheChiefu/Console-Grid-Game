@@ -10,7 +10,7 @@ Simply for the purpose of re-engineering them later so that if I continue this p
 
 Hopefully this clears up any of the questions regarding why the project is a giant thousand lined mess of a single c++ file, instead of organized.
 
-Download the Windows Build [Windows 10 32/64 Bit](./Console-Grid-Game.exe)
+Download the Windows Build [Windows 10 32/64 Bit](https://github.com/TheChiefu/Console-Grid-Game/raw/master/Console-Grid-Game.exe)
 
 **Screenshot**
 ![Gameplay](./Screenshot.jpg)
