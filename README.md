@@ -9,3 +9,8 @@ These were the requirements I had for creating the project for my class. Althoug
 Simply for the purpose of re-engineering them later so that if I continue this project I can modify it with ease and adjust values without needing to rewrite the program.
 
 Hopefully this clears up any of the questions regarding why the project is a giant thousand lined mess of a single c++ file, instead of organized.
+
+Download the Windows Build [Windows 10 32/64 Bit](./Console-Grid-Game.exe)
+
+**Screenshot**
+![Gameplay](./Screenshot.jpg)
